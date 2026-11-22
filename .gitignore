@@ -1,6 +1,15 @@
-*.class
-*.tasty
-*.log
+.DS_Store
+.ivy2/
+.sbt/
+.bsp/
+.metals
+.scala-build
+.vscode
+target/
+dataset/
+exercises/
+staging/
+text/bdp.pdf
+**/checkpointDir/
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*.jsonl
