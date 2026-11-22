@@ -5,11 +5,13 @@
 .metals
 .scala-build
 .vscode
+.devcontainer
 target/
 dataset/
 exercises/
 staging/
 text/bdp.pdf
 **/checkpointDir/
+
 
 *.jsonl
